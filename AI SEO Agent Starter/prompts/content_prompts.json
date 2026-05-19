@@ -1,0 +1,4 @@
+{
+  "brief": "INPUT: cluster + top competitor snapshots. TASK: return JSON with title_suggestions, h1, outline, entities, estimated_word_count, json_ld.",
+  "article": "INPUT: brief. TASK: produce article HTML, json_ld, and visibility_score. OUTPUT JSON {html, json_ld, visibility_score}."
+}

@@ -1,0 +1,12 @@
+name = "ai-seo-workers"
+compatibility_date = "2025-11-29"
+type = "javascript"
+
+[vars]
+# add any worker-level vars here
+
+[build]
+command = "npm install"
+
+[dev]
+ip = "127.0.0.1"
