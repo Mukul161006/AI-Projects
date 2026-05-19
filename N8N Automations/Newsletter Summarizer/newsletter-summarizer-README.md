@@ -41,9 +41,7 @@ All formatted and sent automatically — no manual reading required.
 
 ## Proof of Work
 
-Screenshot of live bot output in Telegram:
-
-![Newsletter Summary Output](screenshot.png)
+Screenshot of live bot output in Telegram is attached in this folder alreay. 
 
 > Also posted on X (Twitter): [@MP_Singh1610](https://x.com/MP_Singh1610)
 
