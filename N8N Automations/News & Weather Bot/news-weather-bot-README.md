@@ -29,9 +29,7 @@ Every morning at 9 AM, the bot automatically:
 
 ## Proof of Work
 
-Screenshot of the bot live in Telegram (June 17, 2025 — 9:03 AM):
-
-![Bot Output](screenshot.png)
+Screenshot of the bot live in Telegram (June 17, 2025 — 9:03 AM) is uploaded in this folder already. 
 
 > Also posted on X (Twitter): [@MP_Singh1610](https://x.com/MP_Singh1610)
 
